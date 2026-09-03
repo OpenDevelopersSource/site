@@ -1,7 +1,7 @@
 [
   {
     "name": "O-lang",
-    "description": "For ODS-os MVP we are Stopped, but O-lang is compiler and have 3 backend's : 1-LLVM 2-MLIR 3-JIT and also is minimal lang it's a memory safe like rust but you just write the 'blocked' and have UI Framework like SwiftUI.",
+    "description": "For ODS-os MVP we are Stopped, but O-lang Its compiler and have 3 backend's : 1-LLVM 2-MLIR 3-JIT and also Its minimal lang and memory safe like rust but you just write the 'blocked' and have UI Framework like SwiftUI.",
     "status": "stop"
   },
   {
