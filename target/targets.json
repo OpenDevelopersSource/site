@@ -1,0 +1,67 @@
+[
+  {
+    "name": "O-lang",
+    "description": "For ODS-os MVP we are Stopped, but O-lang is compiler and have 3 backend's : 1-LLVM 2-MLIR 3-JIT and also is minimal lang it's a memory safe like rust but you just write the 'blocked' and have UI Framework like SwiftUI.",
+    "status": "stop"
+  },
+  {
+    "name": "x12",
+    "description": "For ODS-os MVP we are stopped, and x12 is a Display Server but have Strict Security.",
+    "status": "stop"
+  },
+  {
+    "name": "OBrowser",
+    "description": "It's ODS-os Browser and You can use the Windows and Android",
+    "status": "Done"
+  },
+  {
+    "name": "SeekHiding",
+    "description": "It's GUI Framework and have Smooth Animations and also Have Blur and use the your CPU,GPU,NPU and TPU, but Natively and Without loss of quality and use the Graphic API : Vulkan and Bulkan.",
+    "status": "Planned"
+  },
+  {
+    "name": "Xcompositor",
+    "description": "x12 compositor and window manager built specifically for ODS-OS.",
+    "status": "Planned"
+  },
+  {
+    "name": "Bulkan",
+    "description": "It's Graphic API and it's for Linux Platform.",
+    "status": "Planned"
+  },
+  {
+    "name": "Biki",
+    "description": "It's AI Core for ODS-os and have Orb and don't have ChatBox and Biki work this : STT->Model->TTS and Biki can the search and have System control.",
+    "status": "in-progress"
+  },
+  {
+    "name": "6.7",
+    "description": "Six Seven It's the Desktop Shell.",
+    "status": "Planned"
+  },
+  {
+    "name": "OLE",
+    "description": "ODS's Lua Engine it's Runtime For Lua.",
+    "status": "Done"
+  },
+  {
+    "name": "Ycode",
+    "description": "It's the IDE for ODS-os and Developers building on ODS-os and all ODS-os Developer can use it and in the Ycode you can Drag & Drop the UI like Xcode and have MPS or Meta Programming System.",
+    "status": "Planned"
+  },
+  {
+    "name": "Msh",
+    "description":"Msh or Monkey Shell it's Alternative for all shell for example : Bash,Zsh and Fish.",
+    "status": "Planned"
+  },
+  {
+    "name": "OC",
+    "description": "OC or ODS Compiler and OC is an alternative to C/C++ compilers.",
+    "status": "Planned"
+  },
+  {
+    "name": "Arm",
+    "description": "Arm is ODS-OS's libc.",
+    "status": "Planned"
+  }
+]

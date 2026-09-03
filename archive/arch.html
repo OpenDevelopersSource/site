@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Archive — ODS</title>
+  <link rel="stylesheet" href="../shared.css">
+  <link rel="stylesheet" href="arch.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="../index.html" class="logo">ODS<span>.</span></a>
+      <nav>
+        <a href="../index.html">Home</a>
+        <a href="../contribute/contri.html">Contribute</a>
+        <a href="../olang/olang.html">Olang</a>
+        <a href="../os_download/os_download.html">Download</a>
+        <a href="../target/trget.html">Roadmap</a>
+        <a href="arch.html" class="active">Archive</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="archive">
+      <div class="container">
+        <div class="archive-header">
+          <div>
+            <h1>Package Archive</h1>
+            <p>No packages have been published yet. The archive will be populated once ODS-OS reaches its first release.</p>
+          </div>
+          <div class="archive-search">
+            <input type="text" id="search" placeholder="Search packages…" autocomplete="off" disabled>
+          </div>
+        </div>
+
+        <div class="archive-meta">
+          <span id="result-count">0 packages</span>
+        </div>
+
+        <div class="package-list" id="package-list">
+        </div>
+
+        <div class="archive-empty" id="archive-empty">
+          <p>No packages published yet.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>ODS package archive — no releases published yet.</p>
+    </div>
+  </footer>
+
+  <script src="arch.js"></script>
+</body>
+</html>

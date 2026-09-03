@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ODS — Open Developers Source</title>
+  <link rel="stylesheet" href="shared.css">
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="index.html" class="logo">ODS<span>.</span></a>
+      <nav>
+        <a href="archive/arch.html">Archive</a>
+        <a href="contribute/contri.html">Contribute</a>
+        <a href="olang/olang.html">Olang</a>
+        <a href="os_download/os_download.html">Download</a>
+        <a href="target/trget.html">Roadmap</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <div class="terminal">
+          <div class="terminal-header">
+            <div class="terminal-dot red"></div>
+            <div class="terminal-dot yellow"></div>
+            <div class="terminal-dot green"></div>
+            <div class="terminal-title">boot — root@ods</div>
+          </div>
+          <div class="terminal-body">
+            <div><span class="prompt">root@ods:~$</span> <span class="command">ods init</span></div>
+            <div class="output">Initializing Kernel...</div>
+            <div class="output">Loading kernel modules... [OK]</div>
+            <div class="output">Mounting Olang runtime... [OK]</div>
+            <div class="output">Starting system services... [OK]</div>
+            <div class="output"></div>
+            <div><span class="typed" id="typed-line"></span><span class="cursor" id="cursor"></span></div>
+          </div>
+        </div>
+
+        <div class="hero-nav">
+          <div class="card-grid">
+            <a href="archive/arch.html" class="card">
+              <h3>Archive</h3>
+              <p>Browse packages, releases, and version history.</p>
+              <span class="badge">packages</span>
+            </a>
+            <a href="contribute/contri.html" class="card">
+              <h3>Contribute</h3>
+              <p>Build from source, submit patches, and join the community.</p>
+              <span class="badge">open source</span>
+            </a>
+            <a href="olang/olang.html" class="card">
+              <h3>Olang</h3>
+              <p>Language reference, syntax, and standard library.</p>
+              <span class="badge">docs</span>
+            </a>
+            <a href="os_download/os_download.html" class="card">
+              <h3>Download</h3>
+              <p>Get the latest ISO for x86_64, ARM, and RISC-V.</p>
+              <span class="badge badge-success">stable</span>
+            </a>
+            <a href="target/trget.html" class="card">
+              <h3>Roadmap</h3>
+              <p>Track the status of ODS-OS software components.</p>
+              <span class="badge">compatibility</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>ODS is open source software, released under the MIT License.</p>
+    </div>
+  </footer>
+
+  <script src="index.js"></script>
+</body>
+</html>

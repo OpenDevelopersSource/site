@@ -1,0 +1,77 @@
+.target-intro {
+  max-width: 720px;
+  margin-bottom: var(--space-2xl);
+}
+
+.target-intro h1 {
+  margin-bottom: var(--space-md);
+}
+
+.roadmap-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: var(--space-xl);
+}
+
+.roadmap-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.roadmap-table thead {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+
+.roadmap-table th {
+  text-align: left;
+  padding: var(--space-md) var(--space-lg);
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+}
+
+.roadmap-table td {
+  padding: var(--space-md) var(--space-lg);
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+.roadmap-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.roadmap-table tbody tr:hover {
+  background: var(--surface);
+}
+
+.component-name {
+  font-family: var(--font-mono);
+  font-weight: 600;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.component-desc {
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.target-empty {
+  text-align: center;
+  padding: var(--space-2xl) 0;
+  color: var(--muted);
+}
+
+@media (max-width: 640px) {
+  .roadmap-table th,
+  .roadmap-table td {
+    padding: var(--space-sm) var(--space-md);
+    font-size: 0.85rem;
+  }
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contribute — ODS</title>
+  <link rel="stylesheet" href="../shared.css">
+  <link rel="stylesheet" href="contri.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="../index.html" class="logo">ODS<span>.</span></a>
+      <nav>
+        <a href="../index.html">Home</a>
+        <a href="../archive/arch.html">Archive</a>
+        <a href="../olang/olang.html">Olang</a>
+        <a href="../os_download/os_download.html">Download</a>
+        <a href="../target/trget.html">Roadmap</a>
+        <a href="contri.html" class="active">Contribute</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="contribute">
+      <div class="container">
+        <div class="contribute-intro">
+          <h1>Contribute</h1>
+          <p>Choose how you want to get involved with ODS.</p>
+        </div>
+
+        <div class="paths">
+          <div class="path-card">
+            <h2>I have an idea</h2>
+            <p>Suggest a feature, report a design issue, or propose a language change. No account required — just open a discussion.</p>
+            <a href="https://github.com/ods2026m-boop/" target="_blank" rel="noopener" class="btn btn-primary">Open Ideas Discussion</a>
+          </div>
+
+          <div class="path-card">
+            <h2>I want to build</h2>
+            <p>Contribute code, fix bugs, or work on the core. You will need a GitHub account to join the contributors chat.</p>
+
+            <div id="auth-section">
+              <button id="login-btn" class="btn btn-primary">Login with GitHub</button>
+            </div>
+
+            <div id="user-section" style="display: none;">
+              <div class="user-info">
+                <img id="user-avatar" src="" alt="" class="avatar">
+                <div>
+                  <div id="user-name" class="user-name"></div>
+                  <button id="logout-btn" class="btn">Logout</button>
+                </div>
+              </div>
+            </div>
+
+            <div id="chat-section" style="display: none;">
+              <div class="chat-header">
+                <h3>Contributors Chat</h3>
+                <span class="badge badge-success">live</span>
+              </div>
+              <div id="giscus-container"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>ODS is open source software, released under the MIT License.</p>
+    </div>
+  </footer>
+
+  <script src="contri.js"></script>
+</body>
+</html>

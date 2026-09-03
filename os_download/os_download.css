@@ -1,0 +1,22 @@
+.download-intro {
+  max-width: 720px;
+  margin-bottom: var(--space-2xl);
+}
+
+.download-intro h1 {
+  margin-bottom: var(--space-md);
+}
+
+.download-not-released {
+  max-width: 600px;
+}
+
+.download-not-released .terminal {
+  margin-top: var(--space-lg);
+}
+
+@media (max-width: 640px) {
+  .container {
+    padding: var(--space-lg) var(--space-md);
+  }
+}
