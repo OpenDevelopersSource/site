@@ -16,17 +16,12 @@
   },
   {
     "name": "SeekHiding",
-    "description": "It's GUI Framework and have Smooth Animations and also Have Blur and use the your CPU,GPU,NPU and TPU, but Natively and Without loss of quality and use the Graphic API : Vulkan and Bulkan.",
+    "description": "It's GUI Framework and have Smooth Animations and also Have Blur and use the your CPU,GPU,NPU and TPU, but Natively and Without loss of quality and use the Graphic API : Vulkan.",
     "status": "Planned"
   },
   {
     "name": "Xcompositor",
     "description": "x12 compositor and window manager built specifically for ODS-OS.",
-    "status": "Planned"
-  },
-  {
-    "name": "Bulkan",
-    "description": "It's Graphic API and it's for Linux Platform.",
     "status": "Planned"
   },
   {
