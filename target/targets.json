@@ -1,13 +1,13 @@
 [
   {
     "name": "O-lang",
-    "description": "For ODS-os MVP we are Stopped, but O-lang Its compiler and have 3 backend's : 1-LLVM 2-MLIR 3-JIT and also Its minimal lang and memory safe like rust but you just write the 'blocked' and have UI Framework like SwiftUI.",
-    "status": "stop"
+    "description": "For ODS-os MVP we are Stopped, but O-lang Its compiler and have 4 backend's : 1-LLVM 2-MLIR 3-JIT 4-Interpreter and also Its minimal lang and memory safe like rust but you just write the 'blocked' and have UI Framework like SwiftUI.",
+    "status": "Planned"
   },
   {
     "name": "x12",
     "description": "For ODS-os MVP we are stopped, and x12 is a Display Server but have Strict Security.",
-    "status": "stop"
+    "status": "Planned"
   },
   {
     "name": "OBrowser",
