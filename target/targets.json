@@ -16,7 +16,7 @@
   },
   {
     "name": "SeekHiding",
-    "description": "It's GUI Framework and have Smooth Animations and also Have Blur and use the your CPU,GPU and NPU, but Natively and Without loss of quality and use the Graphic API : Vulkan.",
+    "description": "It's GUI Framework and have Smooth Animations and also Have Blur and use the your CPU adn GPU, but Natively and Without loss of quality and use the Graphic API : Vulkan.",
     "status": "Planned"
   },
   {
