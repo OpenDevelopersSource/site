@@ -6,8 +6,8 @@
   },
   {
     "name": "x12",
-    "description": "For ODS-os MVP we are stopped, and x12 is a Display Server but have Strict Security.",
-    "status": "Planned"
+    "description": "x12 is a Protocol but have Strict Security, and we fiinished but we not sure this is working with Xcompositor or No !.",
+    "status": "Done"
   },
   {
     "name": "OBrowser",
