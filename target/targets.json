@@ -5,24 +5,9 @@
     "status": "Planned"
   },
   {
-    "name": "x12",
-    "description": "x12 is a Protocol but have Strict Security, and we finished but we not sure this is working with Xcompositor or No !.",
-    "status": "Done"
-  },
-  {
     "name": "OBrowser",
     "description": "It's ODS-os Browser and You can use the Windows and Android",
     "status": "Done"
-  },
-  {
-    "name": "SeekHiding",
-    "description": "It's GUI Framework and have Smooth Animations and also Have Blur and use the your CPU adn GPU, but Natively and Without loss of quality and use the Graphic API : OpenGL.",
-    "status": "Planned"
-  },
-  {
-    "name": "Xcompositor",
-    "description": "x12 compositor and window manager built specifically for ODS-OS.",
-    "status": "Planned"
   },
   {
     "name": "Biki",
@@ -49,14 +34,4 @@
     "description":"Msh or Monkey Shell it's Alternative for all shell for example : Bash,Zsh and Fish.",
     "status": "Done"
   },
-  {
-    "name": "OC",
-    "description": "OC or ODS Compiler and OC is an alternative to C/C++ compilers.",
-    "status": "Planned"
-  },
-  {
-    "name": "Arm",
-    "description": "Arm is ODS-OS's libc.",
-    "status": "Planned"
-  }
 ]
