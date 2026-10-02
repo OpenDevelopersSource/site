@@ -20,11 +20,6 @@
     "status": "Planned"
   },
   {
-    "name": "OLE",
-    "description": "ODS's Lua Engine it's Runtime For Lua.",
-    "status": "Done"
-  },
-  {
     "name": "Ycode",
     "description": "It's the IDE for ODS-os and Developers building on ODS-os and all ODS-os Developer can use it and in the Ycode you can Drag & Drop the UI like Xcode and have MPS or Meta Programming System.",
     "status": "Planned"
