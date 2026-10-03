@@ -1,8 +1,8 @@
 [
   {
-    "name": "firefox",
-    "version": "1.0.0-1",
-    "download_url": "https://example.com/releases/another-package-2.1.0.tar.gz"
+    "name": "Msh-aarch64",
+    "version": "1.0.0",
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/v1.0.0/msh-1.0.0-aarch64.tar"
   },
   {
     "name": "another-package",
