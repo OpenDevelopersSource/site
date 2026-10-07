@@ -18,5 +18,10 @@
     "name": "lua-x84_64",
     "version": "5.5.1",
     "download_url": " https://github.com/ods2026m-boop/packages/releases/download/v5.5.1/lua-5.5.1-x86_64.tar"
+  },
+  {
+    "name": "lua-aarch64",
+    "version": "5.5.1",
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/v5.5.1/lua-5.5.1-aarch64.tar"
   }
 ]
