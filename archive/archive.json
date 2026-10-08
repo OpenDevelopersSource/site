@@ -58,7 +58,7 @@
     "name": "ninja-riscv64",
     "version": "1.13.1",
     "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ninja-1.13.1/ninja-1.13.1-riscv64.tar"
-  }
+  },
   {
     "name": "nim-x86_64",
     "version": "2.2.12",
