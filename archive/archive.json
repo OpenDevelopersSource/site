@@ -88,5 +88,20 @@
     "name": "ncurses-riscv64",
     "version": "6.6",
     "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ncurses-6.6/ncurses-6.6-riscv64.tar"
+  },
+    {
+    "name": "ods-coreutils-x86_64",
+    "version": "1.0.0",
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ods-coreutils-1.0.0/ods-coreutils-1.0.0-x86_64.tar"
+  },
+  {
+    "name": "ods-coreutils-aarch64",
+    "version": "1.0.0",
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ods-coreutils-1.0.0/ods-coreutils-1.0.0-aarch64.tar"
+  },
+  {
+    "name": "ods-coreutils-riscv64",
+    "version": "1.0.0",
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ods-coreutils-1.0.0/ods-coreutils-1.0.0-riscv64.tar"
   }
 ]
