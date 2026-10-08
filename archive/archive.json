@@ -62,16 +62,16 @@
   {
     "name": "nim-x86_64",
     "version": "2.2.12",
-    "dowload_url": "https://github.com/ods2026m-boop/packages/releases/download/nim-2.2.12/nim-2.2.12-x86_64.tar"
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/nim-2.2.12/nim-2.2.12-x86_64.tar"
   },
   {
     "name": "nim-aarch64",
     "version": "2.2.12",
-    "dowload_url": "https://github.com/ods2026m-boop/packages/releases/download/nim-2.2.12/nim-2.2.12-aarch64.tar"
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/nim-2.2.12/nim-2.2.12-aarch64.tar"
   },
   {
     "name": "nim-riscv64",
     "version": "2.2.12",
-    "dowload_url": "https://github.com/ods2026m-boop/packages/releases/download/nim-2.2.12/nim-2.2.12-riscv64.tar"
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/nim-2.2.12/nim-2.2.12-riscv64.tar"
   }
 ]
