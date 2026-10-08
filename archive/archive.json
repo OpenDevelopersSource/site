@@ -73,5 +73,20 @@
     "name": "nim-riscv64",
     "version": "2.2.12",
     "download_url": "https://github.com/ods2026m-boop/packages/releases/download/nim-2.2.12/nim-2.2.12-riscv64.tar"
+  },
+    {
+    "name": "ncurses-x86_64",
+    "version": "6.6",
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ncurses-6.6/ncurses-6.6-x86_64.tar"
+  },
+  {
+    "name": "ncurses-aarch64",
+    "version": "6.6",
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ncurses-6.6/ncurses-6.6-aarch64.tar"
+  },
+  {
+    "name": "ncurses-riscv64",
+    "version": "6.6",
+    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ncurses-6.6/ncurses-6.6-riscv64.tar"
   }
 ]
