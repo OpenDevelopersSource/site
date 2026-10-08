@@ -39,7 +39,7 @@
     "version": "4.4.1",
     "download_url": "https://github.com/ods2026m-boop/packages/releases/download/make-4.4.1/make-4.4.1-aarch64.tar"
   },
-    {
+  {
     "name": "make-riscv64",
     "version": "4.4.1",
     "download_url": "https://github.com/ods2026m-boop/packages/releases/download/make-4.4.1/make-4.4.1-riscv64.tar"
@@ -49,12 +49,12 @@
     "version": "1.13.1",
     "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ninja-1.13.1/ninja-1.13.1-x86_64.tar"
   },
-    {
+  {
     "name": "ninja-aarch64",
     "version": "1.13.1",
     "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ninja-1.13.1/ninja-1.13.1-aarch64.tar"
   },
-    {
+  {
     "name": "ninja-riscv64",
     "version": "1.13.1",
     "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ninja-1.13.1/ninja-1.13.1-riscv64.tar"
