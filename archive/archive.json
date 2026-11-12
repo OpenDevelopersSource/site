@@ -2,106 +2,106 @@
   {
     "name": "Msh-aarch64",
     "version": "1.0.0",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/v1.0.0/msh-1.0.0-aarch64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/v1.0.0/msh-1.0.0-aarch64.tar"
   },
   {
     "name": "Msh-riscv64",
     "version": "1.0.0",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/v1.0.0/msh-1.0.0-riscv64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/v1.0.0/msh-1.0.0-riscv64.tar"
   },
   {
     "name": "Msh-x86_64",
     "version": "1.0.0",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/v1.0.0/msh-1.0.0-x86_64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/v1.0.0/msh-1.0.0-x86_64.tar"
   },
   {
     "name": "lua-x86_64",
     "version": "5.5.1",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/v5.5.1/lua-5.5.1-x86_64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/v5.5.1/lua-5.5.1-x86_64.tar"
   },
   {
     "name": "lua-aarch64",
     "version": "5.5.1",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/v5.5.1/lua-5.5.1-aarch64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/v5.5.1/lua-5.5.1-aarch64.tar"
   },
   {
     "name": "lua-riscv64",
     "version": "5.5.1",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/v5.5.1/lua-5.5.1-riscv64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/v5.5.1/lua-5.5.1-riscv64.tar"
   },
   {
     "name": "make-x86_64",
     "version": "4.4.1",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/make-4.4.1/make-4.4.1-x86_64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/make-4.4.1/make-4.4.1-x86_64.tar"
   },
   {
     "name": "make-aarch64",
     "version": "4.4.1",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/make-4.4.1/make-4.4.1-aarch64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/make-4.4.1/make-4.4.1-aarch64.tar"
   },
   {
     "name": "make-riscv64",
     "version": "4.4.1",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/make-4.4.1/make-4.4.1-riscv64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/make-4.4.1/make-4.4.1-riscv64.tar"
   },
   {
     "name": "ninja-x86_64",
     "version": "1.13.1",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ninja-1.13.1/ninja-1.13.1-x86_64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ninja-1.13.1/ninja-1.13.1-x86_64.tar"
   },
   {
     "name": "ninja-aarch64",
     "version": "1.13.1",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ninja-1.13.1/ninja-1.13.1-aarch64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ninja-1.13.1/ninja-1.13.1-aarch64.tar"
   },
   {
     "name": "ninja-riscv64",
     "version": "1.13.1",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ninja-1.13.1/ninja-1.13.1-riscv64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ninja-1.13.1/ninja-1.13.1-riscv64.tar"
   },
   {
     "name": "nim-x86_64",
     "version": "2.2.12",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/nim-2.2.12/nim-2.2.12-x86_64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/nim-2.2.12/nim-2.2.12-x86_64.tar"
   },
   {
     "name": "nim-aarch64",
     "version": "2.2.12",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/nim-2.2.12/nim-2.2.12-aarch64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/nim-2.2.12/nim-2.2.12-aarch64.tar"
   },
   {
     "name": "nim-riscv64",
     "version": "2.2.12",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/nim-2.2.12/nim-2.2.12-riscv64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/nim-2.2.12/nim-2.2.12-riscv64.tar"
   },
     {
     "name": "ncurses-x86_64",
     "version": "6.6",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ncurses-6.6/ncurses-6.6-x86_64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ncurses-6.6/ncurses-6.6-x86_64.tar"
   },
   {
     "name": "ncurses-aarch64",
     "version": "6.6",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ncurses-6.6/ncurses-6.6-aarch64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ncurses-6.6/ncurses-6.6-aarch64.tar"
   },
   {
     "name": "ncurses-riscv64",
     "version": "6.6",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ncurses-6.6/ncurses-6.6-riscv64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ncurses-6.6/ncurses-6.6-riscv64.tar"
   },
     {
     "name": "ods-coreutils-x86_64",
     "version": "1.0.0",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ods-coreutils-1.0.0/ods-coreutils-1.0.0-x86_64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ods-coreutils-1.0.0/ods-coreutils-1.0.0-x86_64.tar"
   },
   {
     "name": "ods-coreutils-aarch64",
     "version": "1.0.0",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ods-coreutils-1.0.0/ods-coreutils-1.0.0-aarch64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ods-coreutils-1.0.0/ods-coreutils-1.0.0-aarch64.tar"
   },
   {
     "name": "ods-coreutils-riscv64",
     "version": "1.0.0",
-    "download_url": "https://github.com/ods2026m-boop/packages/releases/download/ods-coreutils-1.0.0/ods-coreutils-1.0.0-riscv64.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ods-coreutils-1.0.0/ods-coreutils-1.0.0-riscv64.tar"
   }
 ]
