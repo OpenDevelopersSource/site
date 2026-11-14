@@ -108,5 +108,15 @@
     "name": "ods-kernel-7.3.4-x86_64",
     "version": "7.3.4",
     "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ods-kernel-7.3.4/ods-kernel-7.3.4-x86_64.tar"
+  },
+  {
+    "name": "ods-kernel-7.3.4-aarch64",
+    "version": "7.3.4",
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ods-kernel-7.3.4/ods-kernel-7.3.4-aarch64.tar"
+  },
+  {
+    "name": "ods-kernel-7.3.4-riscv64",
+    "version": "7.3.4",
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ods-kernel-7.3.4/ods-kernel-7.3.4-riscv64.tar"
   }
 ]
