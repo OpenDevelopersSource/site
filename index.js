@@ -3,7 +3,7 @@
   const cursor = document.getElementById('cursor');
   if (!typedLine || !cursor) return;
 
-  const text = 'OS Its ready ! you can reboot it.';
+  const text = 'The operating system is ready! You can restart (reboot) it.';
   let i = 0;
   const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
