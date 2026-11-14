@@ -105,8 +105,8 @@
     "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ods-coreutils-1.0.0/ods-coreutils-1.0.0-riscv64.tar"
   },
   {
-    "name": "ods-kernel-7.3.4-x86_84",
+    "name": "ods-kernel-7.3.4-x86_64",
     "version": "7.3.4",
-    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ods-kernel-7.3.4/ods-kernel-7.3.4-x86_84.tar"
+    "download_url": "https://github.com/OpenDevelopersSource/packages/releases/download/ods-kernel-7.3.4/ods-kernel-7.3.4-x86_64.tar"
   }
 ]
